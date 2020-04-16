@@ -1,2 +1,3 @@
 A ) write report
-B) submit report
+B) submit final version
+c) submit expenses
